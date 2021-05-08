@@ -6,4 +6,10 @@ Các phần mềm cần cài đặt
 - Cấu hình Packer
 - Vagrant 2.2.16
 3. Chi tiết cách triển khai Server Metasploitable 2 và kali version 2020
-4. Triển khai server Metasploitable 3 và tối ưu system Kali 2020 với SRV Meta 2
+- Cài đặt Kali linux
+- Cài đặt Metasploitable 2
+5. Triển khai server Metasploitable 3 và tối ưu system Kali 2020 với SRV Meta 2
+- Cài đặt Metasploitable 3 (tắt window defender khi giải nén và cài đặt)
+    + Cài đặt bằng power shell
+    + 
+
